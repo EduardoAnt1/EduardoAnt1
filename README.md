@@ -7,7 +7,7 @@
 ```javascript
   async user.index({
     name: 'Eduardo Antunes',
-    age: 19,
+    age: 20,
     city: 'Muriaé, MG',
     stack: ['PHP', 'HTML', 'C++', 'CSS'],
     hobby: 'I love games , animes and Science Fiction'
