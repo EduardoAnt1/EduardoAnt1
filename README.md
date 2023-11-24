@@ -9,7 +9,7 @@
     name: 'Eduardo Antunes',
     age: 20,
     city: 'Muriaé, MG',
-    stack: ['PHP', 'HTML', 'C++', 'CSS'],
+    stack: ['JS', 'HTML', 'C++', 'CSS' , 'WordPress'],
     hobby: 'I love games , animes and Science Fiction'
   });
   
