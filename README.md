@@ -7,9 +7,9 @@
 ```javascript
   async user.index({
     name: 'Eduardo Antunes',
-    age: 20,
-    city: 'Muriaé, MG',
-    stack: ['JS', 'HTML', 'C++', 'CSS' , 'WordPress'],
+    age: 22,
+    city: 'Leopoldina,MG',
+    stack: ['JS', 'HTML', 'C++', 'CSS' , 'WordPress','BD Oracle'],
     hobby: 'I love games , animes and Science Fiction'
   });
   
