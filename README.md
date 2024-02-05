@@ -1,4 +1,5 @@
-# Eu sou Eduardo Antunes<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Eu sou Eduardo Antunes
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">  
 ##Estudante de Engenharia da Computação 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/eduardo-antunes-a0327719b/)](https://www.linkedin.com/in/eduardo-antunes-a0327719b/)
