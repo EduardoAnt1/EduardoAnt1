@@ -9,7 +9,7 @@
     name: 'Eduardo Antunes',
     age: 22,
     city: 'Leopoldina,MG',
-    stack: ['JS', 'HTML', 'C++', 'CSS' , 'WordPress','PL/SQL'],
+    stack: ['JS', 'HTML', 'C++', 'CSS' , 'WordPress','PL/SQL','Python'],
     hobby: 'Assistir NASCAR'
   });
   
