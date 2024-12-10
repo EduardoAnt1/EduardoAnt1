@@ -7,10 +7,10 @@
 ```javascript
   async user.index({
     name: 'Eduardo Antunes',
-    age: 22,
+    age: 23,
     city: 'Leopoldina,MG',
-    stack: ['JS', 'HTML', 'C++', 'CSS' , 'WordPress','PL/SQL','Python'],
-    hobby: 'Assistir NASCAR'
+    stack: ['C','C++','PL/SQL','Python'],
+    hobby: 'Competidor de E-sports'
   });
   
   return response.status(201).send();
